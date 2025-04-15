@@ -15,7 +15,7 @@ data parsing with AviationStack
  Сформировать venv и файл requirements.txt
 
 ### CSV-файл
-Структура файла `flights.csv`:
+Структура файла `AviationStack.csv`:
 - **Столбцы**:
   - `timestamp` (datetime): Время записи данных.
   - `model` (str): Модель самолета.
