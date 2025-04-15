@@ -25,7 +25,7 @@ data parsing with AviationStack
   - `arrival_airport` (str): Аэропорт назначения.
   - `latitude` (float): Широта.
   - `longitude` (float): Долгота.
-  - 'registration' (str): Регистрационный номер самолета.
+  - `registration` (str): Регистрационный номер самолета.
 
   - ### CSV-отчеты
 Файлы `daily_report.csv` и `hourly_report.csv` содержат агрегированные данные:
