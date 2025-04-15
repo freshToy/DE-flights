@@ -1,5 +1,5 @@
 # DE-flights
-data parsing with AviationStack
+data parsing with AviationStack  
 Задача:
  Написать сервис/скрипт, который загружает данные с FlightRadar24. Для
 мониторинга возьми акваторию Чёрного моря. Загруженные данные по рейсам
