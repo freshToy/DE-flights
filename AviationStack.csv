@@ -1,0 +1,34 @@
+timestamp,model,ICAO,airline,departure_airport,arrival_airport,latitude,longitude,registration
+2025-04-15 17:43:24,BE20,BE20,Aeromexico,Avalon,Albury,-36.0686,146.956,VH-VAH
+2025-04-15 18:02:57,PC12,PC12,Thai AirAsia,Jandakot,Port Hedland,-27.13,116.792,VH-OWX
+2025-04-15 18:02:56,A21N,A21N,Asiana Airlines,Chengdu Tianfu International Airport,Seoul (Incheon),36.9827,111.097,HL8364
+2025-04-15 18:02:56,B763,B763,Japan Airlines,Chu-Bu Centrair International (Central Japan International),Seoul (Incheon),35.7692,131.171,JA653J
+2025-04-15 18:01:07,B78X,B78X,Singapore Airlines,Singapore Changi,Chu-Bu Centrair International (Central Japan International),4.4031,105.156,9V-SCY
+2025-04-15 18:00:32,A359,A359,Singapore Airlines,Singapore Changi,Beijing Capital International,5.2432,105.79,9V-SHE
+2025-04-15 18:02:58,A320,A320,Batik Air,Perth International,Soekarno-Hatta International,-26.6402,115.859,PK-BLB
+2025-04-15 18:02:58,A359,A359,Singapore Airlines,Perth International,Singapore Changi,-28.0032,113.579,9V-SHB
+2025-04-15 17:59:49,B752,B752,North-Western Cargo International Airlines,Guangzhou Baiyun International,Hangzhou,26.0327,115.798,B-2862
+2025-04-15 18:01:08,A320,A320,Batik Air,Soekarno-Hatta International,Hasanudin,-6.4429,110.056,PK-LAL
+2025-04-15 17:59:52,B738,B738,China Postal Airlines,Fuzhou,Nanjing Lukou International Airport,29.8101,119.575,B-5130
+2025-04-15 18:00:13,B738,B738,JDL Airlines,Shenzhen,Hangzhou,24.0761,117.365,B-221Q
+2025-04-15 18:00:00,B733,B733,Central Airlines,Tianhe International,Shenzhen,26.774,113.776,B-2908
+2025-04-15 18:00:14,B738,B738,China Postal Airlines,Tianhe International,Nanjing Lukou International Airport,31.9181,118.992,B-5131
+2025-04-15 18:00:14,B788,B788,Scoot,Tianhe International,Singapore Changi,27.6814,113.671,9V-OFD
+2025-04-15 17:44:52,B738,B738,Jeju Air,Tagbilaran,Gimhae,12.1733,122.687,HL7213
+2025-04-15 18:00:30,A321,A321,VietJet Air,Cam Ranh,Daegu,15.0425,114.061,VN-A670
+2025-04-15 18:00:14,B738,B738,China Postal Airlines,Jinan,Nanjing Lukou International Airport,33.2853,118.33,B-222T
+2025-04-15 18:02:32,B752,B752,SF Airlines,Hangzhou,Beijing Capital International,35.1234,117.497,B-20CX
+2025-04-15 18:02:36,B738,B738,JDL Airlines,Beijing Daxing International Airport,Shenzhen,34.947,114.888,B-5113
+2025-04-15 18:00:14,A321,A321,Hong Kong Express,Hong Kong International,Narita International Airport,22.1852,117.841,B-LEL
+2025-04-15 18:05:27,A21N,A21N,Hong Kong Express,Haneda Airport,Hong Kong International,34.0448,136.3,B-KKF
+2025-04-15 18:02:56,A20N,A20N,Peach Aviation,Haneda Airport,Seoul (Incheon),35.3176,135.695,JA213P
+2025-04-15 17:59:04,B788,B788,Japan Airlines,Haneda Airport,Ninoy Aquino International,32.6962,135.227,JA845J
+2025-04-15 17:29:52,B788,B788,Japan Airlines,Haneda Airport,Tan Son Nhat International,33.1348,135.776,JA834J
+2025-04-15 18:00:30,A321,A321,Vietnam Airlines,Tan Son Nhat International,Chu-Bu Centrair International (Central Japan International),12.168,110.156,VN-A334
+2025-04-15 18:01:07,A21N,A21N,Cebu Pacific Air,Kuala Lumpur International Airport (klia),Ninoy Aquino International,3.4886,105.501,RP-C4147
+2025-04-15 18:00:31,A320,A320,AirAsia,Kuala Lumpur International Airport (klia),Guangzhou Baiyun International,10.2194,108.947,9M-AJG
+2025-04-15 18:00:31,B38M,B38M,Air China LTD,Kuala Lumpur International Airport (klia),Beijing Capital International,10.6945,109.266,B-1393
+2025-04-15 18:00:32,A21N,A21N,Asiana Airlines,Tan Son Nhat International,Seoul (Incheon),13.4893,107.833,HL8582
+2025-04-15 18:00:32,B38M,B38M,9 Air Co,Guangzhou Baiyun International,Suvarnabhumi International,17.5606,106.398,B-224V
+2025-04-15 18:00:14,B752,B752,China Postal Airlines,Guangzhou Baiyun International,Nanjing Lukou International Airport,31.92,119.108,B-2831
+2025-04-15 18:01:07,B789,B789,Scoot,Singapore Changi,Taiwan Taoyuan International (Chiang Kai Shek International),3.1653,106.721,9V-OJC

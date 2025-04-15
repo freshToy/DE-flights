@@ -1,0 +1,28 @@
+timestamp,model,airline,count
+2025-04-15 17:00:00,B788,Japan Airlines,2
+2025-04-15 17:00:00,B738,China Postal Airlines,1
+2025-04-15 17:00:00,B738,Jeju Air,1
+2025-04-15 17:00:00,B752,North-Western Cargo International Airlines,1
+2025-04-15 17:00:00,BE20,Aeromexico,1
+2025-04-15 18:00:00,A21N,Asiana Airlines,2
+2025-04-15 18:00:00,A320,Batik Air,2
+2025-04-15 18:00:00,A359,Singapore Airlines,2
+2025-04-15 18:00:00,B738,China Postal Airlines,2
+2025-04-15 18:00:00,B738,JDL Airlines,2
+2025-04-15 18:00:00,A20N,Peach Aviation,1
+2025-04-15 18:00:00,A21N,Cebu Pacific Air,1
+2025-04-15 18:00:00,A21N,Hong Kong Express,1
+2025-04-15 18:00:00,A320,AirAsia,1
+2025-04-15 18:00:00,A321,Hong Kong Express,1
+2025-04-15 18:00:00,A321,VietJet Air,1
+2025-04-15 18:00:00,A321,Vietnam Airlines,1
+2025-04-15 18:00:00,B38M,9 Air Co,1
+2025-04-15 18:00:00,B38M,Air China LTD,1
+2025-04-15 18:00:00,B733,Central Airlines,1
+2025-04-15 18:00:00,B752,China Postal Airlines,1
+2025-04-15 18:00:00,B752,SF Airlines,1
+2025-04-15 18:00:00,B763,Japan Airlines,1
+2025-04-15 18:00:00,B788,Scoot,1
+2025-04-15 18:00:00,B789,Scoot,1
+2025-04-15 18:00:00,B78X,Singapore Airlines,1
+2025-04-15 18:00:00,PC12,Thai AirAsia,1
