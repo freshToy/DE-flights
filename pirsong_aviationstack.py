@@ -31,13 +31,13 @@ def get_flight_data():
             latitude = live.get("latitude", 0)
 
             #Проверка условий на акваторию Черного моря
-            if all([
-                longitude is not None,
-                latitude is not None,
-                27.5 <= longitude <= 41.0,
-                41.5 <= latitude <= 44.5
-            ]):
-                black_sea_flights.append(flight)
+            # if all([
+            #     longitude is not None,
+            #     latitude is not None,
+            #     27.5 <= longitude <= 41.0,
+            #     41.5 <= latitude <= 44.5
+            # ]):
+            black_sea_flights.append(flight)
 
     return black_sea_flights
 
