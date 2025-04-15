@@ -14,23 +14,22 @@ data parsing with AviationStack
  Реализовать запуска проекта:  
  Сформировать venv и файл requirements.txt
 
-
-### 2. CSV-файлы
+### CSV-файл
 Структура файла `flights.csv`:
 - **Столбцы**:
-  - `callsign` (str): Позывной рейса.
-  - `icao_code` (str): Код ICAO самолета.
+  - `timestamp` (datetime): Время записи данных.
   - `model` (str): Модель самолета.
+  - `icao_code` (str): Код ICAO самолета.
   - `airline` (str): Авиакомпания.
   - `departure_airport` (str): Аэропорт вылета.
   - `arrival_airport` (str): Аэропорт назначения.
   - `latitude` (float): Широта.
   - `longitude` (float): Долгота.
-  - `timestamp` (datetime): Время записи данных.
- 
-  - ### 2. CSV-отчеты
+  - 'registration' (str): Регистрационный номер самолета.
+
+  - ### CSV-отчеты
 Файлы `daily_report.csv` и `hourly_report.csv` содержат агрегированные данные:
-- `period` (datetime): Дата/час.
+- `timestamp` (datetime): Дата/час.
 - `model` (str): Модель самолета.
 - `airline` (str): Авиакомпания.
 - `count` (int): Количество рейсов.
